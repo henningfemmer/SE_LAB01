@@ -1,3 +1,4 @@
+
 public class Net {
 
     private static String[] erreichbar = {
@@ -98,7 +99,7 @@ public class Net {
 
 
     public static void main(String[] args) {
+
     }
 
 }
-
